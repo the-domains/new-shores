@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New Shores]]></title>
+        <description><![CDATA[New Shores]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 17:49:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looking back and ahead]]></title>
+            <description><![CDATA[<article><h1>Looking back and ahead</h1><p>Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for SEDPI.Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!</p></article>]]></description>
+            <link>undefinedlooking-back-and-ahead/index.html</link>
+            <guid isPermaLink="false">9e0f2efe-570d-4404-a803-f7405c0fd125</guid>
+            <pubDate>Sun, 06 Mar 2016 17:48:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
