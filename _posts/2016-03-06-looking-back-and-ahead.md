@@ -6,27 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-06T17:48:52.426Z'
-dateModified: '2016-03-06T17:47:18.453Z'
+datePublished: '2016-03-06T18:04:10.333Z'
+dateModified: '2016-03-06T18:03:47.474Z'
 title: Looking back and ahead
 author: []
+sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
-published: true
 url: looking-back-and-ahead/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6f17e5a-e0a3-4635-a87f-6298a28aa9ee.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f3fc8ac-1f71-4641-99c6-c2fae9797d2c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ed8a96-02f0-4d4d-8d33-b41e20e8584d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90699c9b-632a-4a93-9f4b-ada08afa6d1f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f2db46b-f2bf-4d6f-b45b-5f5da984688f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7baadaf7-1d91-4fe2-a9f5-ccbd72b7aea9.jpg)
 
 Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]._Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
 
@@ -44,7 +40,7 @@ August I spend at home with trips to Paris and Berlin.
 
 In  September after the quick interlude in good, old Europe I went back to the Philippines for my internship with_NWTF_. I also managed to complete my first online course_[Foundations of Development Policy][2]_ (after a countless failed attempts in the past years to finish an online course). This course was an eye-opener to the effectiveness of randomised control trials and statistical analysis in development work.
 
-Following my experience in 2015 I am more determined than ever to pursue a career in the development sector. At the moment I feel drawn to the research projects by organisations such as_[JPAL][3]_or_[IPA][4]_to shed some more light on effective interventions in development work. I also decided on some goals for 2016\. Here is what I want to do in the coming months:
+Following my experience in 2015 I am more determined than ever to pursue a career in the development sector. At the moment I feel drawn to the research projects by organisations such as _[JPAL][3]_or _[IPA][4]_t o shed some more light on effective interventions in development work. I also decided on some goals for 2016\. Here is what I want to do in the coming months:
 
 * read more books (I am a slow reader and tend to read countless articles via_[pocket][5]_so I´d be happy to finish 12 books by the end of the year)
 * get familiar with R, STATA or Python to become better at statistical analysis (is a requirement in every job opening that I get excited about lately)
