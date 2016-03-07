@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T02:37:08.372Z'
-dateModified: '2016-03-07T02:37:04.694Z'
+datePublished: '2016-03-07T02:41:41.487Z'
+dateModified: '2016-03-07T02:40:41.149Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
@@ -22,6 +22,8 @@ url: looking-back-and-ahead/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a1868a-57c6-48c8-8fc2-1b6840baf6e1.jpg)
+
 Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]. _Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
 
 At the end of December it is a collective habit to reflect about past twelve months and to come up with resolutions for the new year. Looking back on 2015 I wouldn´t have done much different.
