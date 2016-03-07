@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T02:41:41.487Z'
-dateModified: '2016-03-07T02:40:41.149Z'
+datePublished: '2016-03-07T02:48:47.695Z'
+dateModified: '2016-03-07T02:48:24.710Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
@@ -22,6 +22,7 @@ url: looking-back-and-ahead/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189503f7-fa48-484b-ad7b-119c92e9c033.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a1868a-57c6-48c8-8fc2-1b6840baf6e1.jpg)
 
 Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]. _Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
@@ -49,7 +50,6 @@ Following my experience in 2015 I am more determined than ever to pursue a caree
 * complete another online course. (There are so [many][7] exciting courses out there that the  real challenge for me is to decide on which course to focus on)
 
 Now that my goals are listed here I have to admit that  I don´t believe in static goal setting. I´d rather change my goals along the way as long as I pursue them with determination. This mindset worked out for me quiet well so far.  I am excited to see how the coming 11 months play out for me!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189503f7-fa48-484b-ad7b-119c92e9c033.jpg)
 
 [0]: http://sedpi.com/
 [1]: http://nwtf.org.ph/
