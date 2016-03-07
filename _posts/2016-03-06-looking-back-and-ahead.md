@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T02:50:18.710Z'
-dateModified: '2016-03-07T02:48:52.995Z'
+datePublished: '2016-03-07T03:59:48.889Z'
+dateModified: '2016-03-07T02:51:51.280Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
