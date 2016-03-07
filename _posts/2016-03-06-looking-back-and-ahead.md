@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T03:59:48.889Z'
-dateModified: '2016-03-07T02:51:51.280Z'
+description: ''
+datePublished: '2016-03-07T05:32:18.988Z'
+dateModified: '2016-03-07T05:32:09.325Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
