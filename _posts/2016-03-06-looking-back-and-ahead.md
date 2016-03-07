@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T02:10:00.326Z'
-dateModified: '2016-03-07T02:09:28.441Z'
+datePublished: '2016-03-07T02:37:08.372Z'
+dateModified: '2016-03-07T02:37:04.694Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
@@ -22,9 +22,7 @@ url: looking-back-and-ahead/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7567edce2d4077eedde73c3a7fb418ac29e4b51.jpg)
-
-Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]._Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
+Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]. _Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
 
 At the end of December it is a collective habit to reflect about past twelve months and to come up with resolutions for the new year. Looking back on 2015 I wouldn´t have done much different.
 
@@ -49,6 +47,7 @@ Following my experience in 2015 I am more determined than ever to pursue a caree
 * complete another online course. (There are so [many][7] exciting courses out there that the  real challenge for me is to decide on which course to focus on)
 
 Now that my goals are listed here I have to admit that  I don´t believe in static goal setting. I´d rather change my goals along the way as long as I pursue them with determination. This mindset worked out for me quiet well so far.  I am excited to see how the coming 11 months play out for me!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189503f7-fa48-484b-ad7b-119c92e9c033.jpg)
 
 [0]: http://sedpi.com/
 [1]: http://nwtf.org.ph/
