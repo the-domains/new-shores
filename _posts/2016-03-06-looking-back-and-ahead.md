@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the Grid with one of my blog posts
-datePublished: '2016-03-07T02:48:47.695Z'
-dateModified: '2016-03-07T02:48:24.710Z'
+datePublished: '2016-03-07T02:50:18.710Z'
+dateModified: '2016-03-07T02:48:52.995Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
@@ -22,8 +22,7 @@ url: looking-back-and-ahead/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189503f7-fa48-484b-ad7b-119c92e9c033.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a1868a-57c6-48c8-8fc2-1b6840baf6e1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c97b0850bb3faca2a673d22a5b09e0c8dea0f3f.jpg)
 
 Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for _[SEDPI][0]. _Aside from my new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!
 
