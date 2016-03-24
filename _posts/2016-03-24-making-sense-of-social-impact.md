@@ -16,8 +16,8 @@ keywords:
   - assessment
   - insights
 description: "Last year I completed my first two online courses.\_I learnt about development policy and impact assessments.\_It still amazes me that everyone with an internet connection is now able to take courses from the best universities in the world without having to pay a cent.\_MIT,HarvardandOxford, etc. offer free online courses in any possible subject."
-datePublished: '2016-03-24T13:25:25.393Z'
-dateModified: '2016-03-24T13:18:27.888Z'
+datePublished: '2016-03-24T13:32:46.840Z'
+dateModified: '2016-03-24T13:30:56.302Z'
 author:
   - name: new shores
     url: 'https://newshores.wordpress.com/author/newshores/'
@@ -38,6 +38,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d552d03b-37c9-4ecd-aeb1-a67f1d090b8d.png)
+
 Last year I completed my first two online courses. I learnt about development policy and impact assessments. It still amazes me that everyone with an internet connection is now able to take courses from the best universities in the world without having to pay a cent. [_MIT_,_Harvard_and_Oxford_][0], etc. offer free online courses in any possible subject.
 
 I haven´t studied development studies or related courses in my bachelor. Thus, online courses are a great opportunity for me to advance my knowledge in this field. Since we moved to _Quezon__City_, which has a substantially better internet connection than _Bacolod_ taking classes is very convenient.
