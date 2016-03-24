@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T05:32:18.988Z'
-dateModified: '2016-03-07T05:32:09.325Z'
+description: "Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for\_SEDPI.\_Aside from my\_new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!"
+datePublished: '2016-03-24T13:45:00.102Z'
+dateModified: '2016-03-24T13:44:58.912Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: looking-back-and-ahead/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c97b0850bb3faca2a673d22a5b09e0c8dea0f3f.jpg)
