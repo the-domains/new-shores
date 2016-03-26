@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Two months into 2016 this post comes (I admit it) slightly delayed. The past three weeks were very exciting for me. I had two job interviews for internships and started working for\_SEDPI.\_Aside from my\_new internship I´ll have more interesting stuff to share with you so I did not want to delay this post any further. Bear with me and stay tuned!"
-datePublished: '2016-03-24T13:45:00.102Z'
-dateModified: '2016-03-24T13:44:58.912Z'
+datePublished: '2016-03-26T08:36:59.807Z'
+dateModified: '2016-03-24T13:45:16.426Z'
 title: Looking back and ahead
 author: []
 sourcePath: _posts/2016-03-06-looking-back-and-ahead.md
