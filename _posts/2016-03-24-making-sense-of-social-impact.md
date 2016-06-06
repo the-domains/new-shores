@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://newshores.wordpress.com/2016/03/21/making-sense-of-social-impact/'
 inLanguage: en
-starred: false
 keywords:
   - impact
   - course
@@ -16,24 +15,29 @@ keywords:
   - online
   - assessment
   - insights
-description: "Last year I completed my first two online courses.\_I learnt about development policy and impact assessments.\_It still amazes me that everyone with an internet connection is now able to take courses from the best universities in the world without having to pay a cent.\_MIT,\_Harvard\_and\_Oxford, etc. offer free online courses in any possible subject."
-datePublished: '2016-03-24T13:49:18.242Z'
-dateModified: '2016-03-24T13:47:43.982Z'
+description: >-
+  Last year I completed my first two online courses. I learnt about development
+  policy and impact assessments. It still amazes me that everyone with an
+  internet connection is now able to take courses from the best universities in
+  the world without having to pay a cent. MIT, Harvard and Oxford, etc. offer
+  free online courses in any possible subject.
+datePublished: '2016-06-06T05:29:36.099Z'
+dateModified: '2016-06-06T05:28:08.070Z'
 author:
   - name: new shores
     url: 'https://newshores.wordpress.com/author/newshores/'
     avatar: {}
 related: []
 app_links: []
-title: Making Sense of Social Impact
+title: ''
 sourcePath: _posts/2016-03-24-making-sense-of-social-impact.md
-published: true
 authors: []
 publisher:
   name: new shores
   domain: newshores.wordpress.com
   url: 'http://newshores.wordpress.com'
   favicon: 'https://s2.wp.com/i/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
