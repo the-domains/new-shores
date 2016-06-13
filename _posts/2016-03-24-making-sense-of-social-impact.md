@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-13T06:30:28.749Z'
+datePublished: '2016-06-13T08:36:22.956Z'
 sourcePath: _posts/2016-03-24-making-sense-of-social-impact.md
 inFeed: true
 isBasedOnUrl: 'https://newshores.wordpress.com/2016/03/21/making-sense-of-social-impact/'
@@ -21,7 +21,7 @@ author:
   - name: new shores
     url: 'https://newshores.wordpress.com/author/newshores/'
     avatar: {}
-dateModified: '2016-06-13T06:30:27.940Z'
+dateModified: '2016-06-13T08:36:20.747Z'
 title: ''
 app_links: []
 publisher:
@@ -37,7 +37,7 @@ description: >-
   free online courses in any possible subject.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
