@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-13T06:42:46.330Z'
+datePublished: '2016-06-13T08:38:44.010Z'
+sourcePath: _posts/2016-06-13-coffee-time-is-everytime.md
 author: []
-dateModified: '2016-06-13T06:42:40.871Z'
+dateModified: '2016-06-13T08:37:54.377Z'
 title: ''
 description: Coffee Time is Everytime
 starred: true
-sourcePath: _posts/2016-06-13-coffee-time-is-everytime.md
 inFeed: true
 hasPage: true
 inNav: false
