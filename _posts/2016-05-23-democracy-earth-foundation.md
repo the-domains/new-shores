@@ -29,14 +29,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://democracy.earth/'
 title: Democracy Earth Foundation
-datePublished: '2016-06-06T05:20:29.362Z'
-dateModified: '2016-06-06T05:18:18.192Z'
+datePublished: '2016-06-13T06:21:59.655Z'
+dateModified: '2016-06-13T06:21:57.560Z'
 sourcePath: _posts/2016-05-23-democracy-earth-foundation.md
 inFeed: true
 hasPage: false
 inNav: false
 authors: []
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
