@@ -21,8 +21,8 @@ description: >-
   internet connection is now able to take courses from the best universities in
   the world without having to pay a cent. MIT, Harvard and Oxford, etc. offer
   free online courses in any possible subject.
-datePublished: '2016-06-06T05:29:36.099Z'
-dateModified: '2016-06-06T05:28:08.070Z'
+datePublished: '2016-06-13T06:22:02.396Z'
+dateModified: '2016-06-13T06:22:00.571Z'
 author:
   - name: new shores
     url: 'https://newshores.wordpress.com/author/newshores/'
@@ -37,7 +37,7 @@ publisher:
   domain: newshores.wordpress.com
   url: 'http://newshores.wordpress.com'
   favicon: 'https://s2.wp.com/i/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
