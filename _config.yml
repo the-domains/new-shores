@@ -1,20 +1,4 @@
-name: New Shores
-favicon: null
-layout_spectrum: 0.66481
 typography_spectrum: 0.55253
-title: Getting starte with The Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#eff0f2'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.66481
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: New Shores
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec70dba-56e1-4799-8ddd-03c80520a744.jpg
+title: Getting starte with The Grid
 purpose: []
