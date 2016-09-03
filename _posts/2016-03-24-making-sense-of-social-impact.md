@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-13T08:36:22.956Z'
+datePublished: '2016-08-31T15:53:05.834Z'
 sourcePath: _posts/2016-03-24-making-sense-of-social-impact.md
 inFeed: true
 isBasedOnUrl: 'https://newshores.wordpress.com/2016/03/21/making-sense-of-social-impact/'
@@ -17,18 +17,12 @@ keywords:
   - assessment
   - insights
 related: []
-author:
-  - name: new shores
-    url: 'https://newshores.wordpress.com/author/newshores/'
-    avatar: {}
-dateModified: '2016-06-13T08:36:20.747Z'
+author: []
+via: {}
+dateModified: '2016-08-31T15:53:04.865Z'
 title: ''
 app_links: []
-publisher:
-  name: new shores
-  domain: newshores.wordpress.com
-  url: 'http://newshores.wordpress.com'
-  favicon: 'https://s2.wp.com/i/favicon.ico'
+publisher: {}
 description: >-
   Last year I completed my first two online courses. I learnt about development
   policy and impact assessments. It still amazes me that everyone with an
@@ -42,10 +36,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce3baae6-8233-4186-a5d8-767c74ea39a5.png)
+
 Last year I completed my first two online courses. I learnt about development policy and impact assessments. It still amazes me that everyone with an internet connection is now able to take courses from the best universities in the world without having to pay a cent. _[MIT][0]_[, ][0]_[Harvard ][0]_[and ][0]_[Oxford][0]_, etc. offer free online courses in any possible subject.
 
 I haven´t studied development studies or related courses in my bachelor. Thus, online courses are a great opportunity for me to advance my knowledge in this field. Since we moved to _QuezonCity_, which has a substantially better internet connection than _Bacolod_ taking classes is very convenient.
-![Back in Baguio over holy week to escape the rising heat of Manila](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d552d03b-37c9-4ecd-aeb1-a67f1d090b8d.png)
 
 Last week I started a course by [+][1]_[AcumenMaking Sense of Social Impact][1]. +Acumen _is the public education and community division of one of my favourite social enterprises _[Acumen Fund][2],_which is one of the first _[impact investors][3]._ It finances social enterprises in developing countries and is expanding around the globe.
 
